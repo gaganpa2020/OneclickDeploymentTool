@@ -1,0 +1,9 @@
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\obj\Debug\SerialPortExample.csprojResolveAssemblyReference.cache
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\bin\Debug\SerialPortExample.exe.config
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\bin\Debug\SerialPortExample.exe
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\bin\Debug\SerialPortExample.pdb
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\obj\Debug\SerialPortExample.exe
+D:\Projects\Sockets\SerialPortExample\SerialPortExample\obj\Debug\SerialPortExample.pdb
