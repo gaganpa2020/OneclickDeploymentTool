@@ -7,3 +7,9 @@ C# Code
 =======
 
 C# Code is listening on port & maching patter for deploy instructions. If instruction matches with given patter, It will start Teamcity build. 
+
+Circuit Info
+============
+
+https://123d.circuits.io/circuits/1659445-teamcity-trigger
+
